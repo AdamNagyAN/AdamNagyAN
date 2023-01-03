@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AdamNagyAN
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning MERN
 
 <!---
 AdamNagyAN/AdamNagyAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
